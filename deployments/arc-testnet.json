@@ -1,0 +1,8 @@
+{
+  "chainId": 5042002,
+  "rpc": "https://rpc.testnet.arc.network",
+  "contract": "ArcLeftthehandProofHub",
+  "address": "0x4f4D19fAf9c343f1B284ea613C475dA3B7621922",
+  "txHash": "0x2777d4c37bfe104e317c99555a39d9605c03799e5517a9481f564e66a92d4f0b",
+  "deployer": "0xF226712E3Bb91156E985eb995E1ae524Ca8896EC"
+}
